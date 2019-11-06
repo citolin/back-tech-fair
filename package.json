@@ -11,7 +11,7 @@
     "binary-parser": "^1.4.0",
     "crc-32": "^1.2.0",
     "dotenv": "^8.1.0",
-    "mongoose": "^5.7.3",
+    "mongoose": "^5.7.5",
     "mqtt": "^3.0.0",
     "nodemon": "^1.19.3",
     "serialport": "^7.1.5",
